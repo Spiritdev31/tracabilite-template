@@ -41,7 +41,7 @@ Nous utilisons ici la méthode {MoSCoW} d'estimation.
 
 == Étapes
 
-. Récupérez un dépôt via classroom  et clonez-le localement :  https://classroom.github.com/a/A6-Vf-xM
+. Récupérez un dépôt via classroom  et clonez-le localement :  https://classroom.github.com/a/57HhItOw
 . Créez une (ou plusieurs) issue correspondant à des développement, des tests ou  de la doc en lien avec une exigence.
 +
 .Exemple d'issue
