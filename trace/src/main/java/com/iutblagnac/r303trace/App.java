@@ -11,6 +11,7 @@ public class App {
     }
 
     /**
+     * retourn une chaine de caractère
      *
      * @return Hello Word
      */
@@ -19,6 +20,7 @@ public class App {
     }
 
     /**
+     * retourn un paramètre
      *
      * @param param
      * @return param
